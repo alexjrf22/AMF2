@@ -6,4 +6,4 @@
 * call_user_func_array
 * debug_backtrace
 
-# O código melhorado, visando injeção automatica de metodos e classes no render ao pegar a rota. 
+## O código melhorado, visando injeção automatica de metodos e classes no render ao pegar a rota. 
